@@ -4,13 +4,8 @@ Hey there! Welcome to my GitHub profile. Here you'll find some of the cool proje
 
 ## About Me
 
-I'm passionate about Web design and development. Currently learning how to code for the web. 
+I'm Jack, I'm very passionate about Web design and development; I'm currently learning how to code for the web. 
 
-## Follow Me
-
-If you like what you see, consider following me on GitHub to stay updated with my latest projects and contributions!
-
-[Follow Me on GitHub](https://github.com/JackHewert)
 
 <!--
 **JackHewert/JackHewert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
